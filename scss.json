@@ -1,0 +1,5 @@
+{
+  "sourceMap": true,
+  "useIndex" : true,
+  "indexFilePath" : "client/sass/main.sass"
+}
